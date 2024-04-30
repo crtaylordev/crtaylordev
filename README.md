@@ -7,7 +7,7 @@
 
 - 📣 Languages I speak: **English, Chinese (Mandarin) 我之前在台北住了三年。我的中文有點生疏，但還沒完全忘記！**
 
-- ⚡ Fun fact about me: **Part-time announcer/DJ for my local roller derby league 🛼✨**
+- ⚡ Fun fact about me: **Part-time announcer/DJ for my local roller derby league 🎤✨**
 
 - 📫 How to reach me: **crtaylordev@gmail.com**
 
