@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **[A duration converter](https://crtaylordev.github.io/what-is-time/) for people who would rather think "how many times can I play September by Earth Wind & Fire during this flight" than imagine what 12 hours will "feel like"**
 
-- 🌱 I’m currently learning: **JavaScript document methods**
+- 🌱 I’m currently learning: **JavaScript DOM methods**
 
 - 📣 Languages I speak: **English, Chinese (Mandarin) 我之前在台北住了三年。我的中文有點生疏，但還沒完全忘記！**
 
